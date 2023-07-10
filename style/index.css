@@ -131,3 +131,55 @@
     padding: 10px;
 
 }
+.contact-banner{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+}
+.contact-info1{
+    width: 30%;
+    margin-left: 100px;
+    ;
+    padding: 20px;
+}
+.con-pera{
+    width: 80%;
+    margin-bottom: 10px;
+}
+.contact-info2{
+    padding: 30px;
+    margin-right: 150px;
+    margin-top: -130px;
+    
+}
+.con-head{
+    margin-bottom: 10px;
+
+}
+.in{
+    margin-bottom: 5px;
+}
+.con-img{
+    margin-top: 10px;
+}
+.con-head2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+#emai{
+    margin-left: 23px;
+    margin-bottom: 5px;
+}
+.btn2{
+    margin-top: 10px;
+    padding: 5px;
+    background-color: red;
+    font-weight: bold;
+    border: none;
+}
